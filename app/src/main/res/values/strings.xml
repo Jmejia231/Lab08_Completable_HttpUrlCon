@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab08_Completable_HttpUrlCon</string>
+    <string name="instructions">Ingrese Titulo del Libro o Revista</string>
+    <string name="inputHint">Título de Libro/Revista</string>
+    <string name="btn_text">Buscar</string>
+    <string name="autor">\"Autor(es): \"</string>
+    <string name="idioma">\"Idioma: \"</string>
+    <string name="publicacion">\"Fecha de publicación: \"</string>
+    <string name="espere">Espere un momento...!!!</string>
+    <string name="atencion">Atención</string>
+    <string name="busqueda">Ingrese los Valores de Busqueda</string>
+    <string name="aceptar">Aceptar</string>
+    <string-array name="types">
+        <item>Libro</item>
+        <item>Revista</item>
+        <item>Ambos</item>
+    </string-array>
+    <string-array name="types2">
+        <item>Ingles</item>
+        <item>Español</item>
+        <item>Ambos</item>
+    </string-array>
+</resources>

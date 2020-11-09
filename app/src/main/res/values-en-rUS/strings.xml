@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab08_Completable_HttpUrlCon</string>
+    <string name="instructions">Enter Book or Magazine Title</string>
+    <string name="inputHint">Title of Book or Magazine</string>
+    <string name="btn_text">Search</string>
+    <string name="autor">Author(s)</string>
+    <string name="idioma">Language</string>
+    <string name="publicacion">Publish Date</string>
+    <string name="espere">Wait a moment...!!!</string>
+    <string name="atencion">Attention</string>
+    <string name="busqueda">Enter Search Values</string>
+    <string name="aceptar">Accept</string>
+    <string-array name="types">
+        <item>Book</item>
+        <item>Magazine</item>
+        <item>Both</item>
+    </string-array>
+    <string-array name="types2">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Both</item>
+    </string-array>
+</resources>
